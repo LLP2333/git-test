@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("hello world2");
         System.out.println("hot-fix");
         System.out.println("master的提交");
+        System.out.println("hot-fix的提交");
     }
 }
