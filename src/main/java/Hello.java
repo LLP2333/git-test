@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("hot-fix");
         System.out.println("master的提交");
         System.out.println("hot-fix的提交");
+        System.out.println("test ssh push");
     }
 }
